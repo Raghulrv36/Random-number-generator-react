@@ -1,0 +1,20 @@
+.container{
+    background-color: antiquewhite;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    padding: 10px;
+    margin: auto;
+}
+
+.btn{
+    background-color: antiquewhite;
+    border-radius: 20px;
+    padding: 5px;
+    margin-top: 10%;
+    font-weight: 600;
+}
+
+.btn:hover {
+    background-color: burlywood;
+}
