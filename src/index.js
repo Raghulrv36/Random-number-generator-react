@@ -18,6 +18,7 @@ function ChangeName()
 
     return(
         <div className="container">
+            <h1 className="title">Number</h1>
             <h1>{myname}</h1>
             <button className="btn" onClick={change}>Change</button>
         </div>
